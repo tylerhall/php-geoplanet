@@ -1,13 +1,3 @@
-// Yahoo! GeoPlanet PHP API Implementation
-// Based on API Documentation here: 
-// Tyler Hall <tylerhall@gmail.com>
-// Code released under the MIT License.
-
-php-geoplanet
-=============
-
-A PHP wrapper for Yahoo!'s [GeoPlanet API](http://developer.yahoo.com/geo/guide/index.html).
-
 License
 -------
 
